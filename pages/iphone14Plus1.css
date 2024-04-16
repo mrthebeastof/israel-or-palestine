@@ -1,0 +1,64 @@
+.iphone-14-plus-1 .rectangle-2 {
+  border-radius: 300px 300px 400px 250px;
+  background: url('../assets/images/rectangle2.png');
+  margin-bottom: 18px;
+  width: 530px;
+  height: 292px;
+}
+.iphone-14-plus-1 .rectangle-13 {
+  background: url('../assets/images/rectangle13.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 40px;
+}
+.iphone-14-plus-1 .rectangle-14 {
+  background: url('../assets/images/rectangle14.png') 50% / cover no-repeat;
+  margin-bottom: 4px;
+  width: 142px;
+  height: 36px;
+}
+.iphone-14-plus-1 .container {
+  margin: 0 11px 9px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 11px);
+  box-sizing: border-box;
+}
+.iphone-14-plus-1 .rectangle-12 {
+  background: url('../assets/images/rectangle12.png') 50% / cover no-repeat;
+  margin-right: 108px;
+  height: 108px;
+  flex-grow: 1;
+  flex-basis: 153px;
+}
+.iphone-14-plus-1 .rectangle-11 {
+  background: url('../assets/images/rectangle11.png') 50% / cover no-repeat;
+  height: 108px;
+  flex-grow: 1;
+  flex-basis: 153px;
+}
+.iphone-14-plus-1 .container-2 {
+  margin-left: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 13px);
+  box-sizing: border-box;
+}
+.iphone-14-plus-1 .container-1 {
+  background: url('../assets/images/rectangle1.png') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 107px 1px 48px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-14-plus-1 {
+  background: linear-gradient(180deg, rgba(249, 247, 247, 0.84), rgba(234, 235, 234, 0.84), rgba(250, 246, 246, 0.84), rgba(236, 233, 233, 0.84), rgba(21, 15, 11, 0.84));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 26px 0 278px 0;
+  box-sizing: border-box;
+}
